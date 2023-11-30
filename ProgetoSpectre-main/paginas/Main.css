@@ -1,0 +1,18 @@
+body{
+    margin: 0  ;
+    padding: 0  ;
+}
+Header {
+    display: flex;
+    justify-content:space-around;
+    align-items:normal;
+    background-color: #333;
+    color: white;
+    padding: 20px;
+}
+section{
+    font-size: larger;
+}
+
+
+
