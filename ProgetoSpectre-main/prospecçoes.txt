@@ -1,0 +1,5 @@
+esse projeto é uma tentativa de criação de um repositorio online de mangas , temnho como meta criar um bom site para esse tipo de publico ,com  uma area para ver oq vc já leu, para ver oq curtiu , oq n gosta 
+e salvar os capitulos, alem de recomendar nvovos mangas de acordo com o perfil da pessoa
+
+temas principais serão em azul e amarelo, detalhes em vinho ou bordo e area de uzuario na parte superior esquerda , alem de criar espaços personalizados para proppagandas com a cor marrom
+tenho em mente a questão de tradutores e aquisição do material , então sera necessario um layout diferente para os tradutores e as scans 
